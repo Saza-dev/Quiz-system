@@ -1,0 +1,60 @@
+
+/* ============================================NavBar========================================================== */
+.navbar{
+  background-color: #3F51B5 !important;
+}
+
+.navbar-brand{
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.navbar-brand:hover{
+  color: black;
+}
+.nav-link{
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 3rem;
+}
+
+.nav-link:hover{
+  color: black;
+}
+
+
+/* ------------------------------------------------------------------------------------------- */
+
+
+
+.custom-margin-top {
+  margin-top: 60px; 
+}
+
+form{
+  padding: 90px 70px;
+  border-radius: 35px;
+  background-color: #3F51B5 !important;
+}
+
+form .btn{
+  margin-top: 10%;
+  width: 100%;
+}
+
+.container h1 {
+  font-size: 70px;
+}
+
+.form-control-lg::placeholder {
+  text-align: center;
+}
+
+footer{
+  background-color: #3F51B5;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
